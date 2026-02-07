@@ -15,11 +15,11 @@ As our dataset has imbalanced data after handling imbalanced data with random ov
 # RESULTS
   
 ## Before hyperparameter tuning
-ML MODEL	           ACCURACY
-Logistic Regression	  0.92
-Decision Tree	        0.88
-Random Forest	        0.93
-SVM	                  0.92
+### ML MODEL	           ACCURACY
+##### Logistic Regression	  0.92
+##### Decision Tree	        0.88
+##### Random Forest	        0.93
+##### SVM	                 0.92
 
 The performance of the decision tree was boosted by applying this hyperparameter tuning from 0.88 to 0.93.
 
