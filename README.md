@@ -14,7 +14,7 @@ As our dataset has imbalanced data after handling imbalanced data with random ov
 
 # RESULTS
   
-# Before hyperparameter tuning
+## Before hyperparameter tuning
 ML MODEL	           ACCURACY
 Logistic Regression	  0.92
 Decision Tree	        0.88
